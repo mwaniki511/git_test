@@ -1,3 +1,4 @@
- Hi my name is Brian from Kenya, starting my basics on coding. 
+Hi my name is Brian from Kenya, starting my basics on coding. 
 I am familiarizing myself with git.
+Today, I am mastering my git skills. 
 
